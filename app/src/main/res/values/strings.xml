@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GUIA6</string>
+    <string name="string_reproductor">Reproductor MP3</string>
+    <string name="string_mis_datos">Mis Datos</string>
+
+
+    <string name="string_nombre">Daniel Fernando Cuéllar Larín</string>
+    <string name="string_codigo">CL17-I04-002</string>
+</resources>
